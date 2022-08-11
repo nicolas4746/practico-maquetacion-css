@@ -128,6 +128,16 @@ main div .main-container{
 .blogs-news-info-container p{
     margin-bottom: 35px;
 }
-.blogs-post-container{
+.blogs-posts-container{
     padding: 0 50px 40px;
+}
+.blogs-posts-container h3{
+    border-bottom: 1px solid #cdd2da;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.blogs-button{
+    border: 1px solid #47cfac;
+    padding: 10px 15px;
+    font-size: 12px;
 }
